@@ -5,4 +5,4 @@
 可以进行收集用户的信息至数据库，将数据库的数据渲染至页面之上，用户可以进行数据对数据进行增删改查。
 
 ## 项目逻辑
-![image](https://note.youdao.com/favicon.ico)
+![image](siwei.png)
